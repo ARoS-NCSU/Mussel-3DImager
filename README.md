@@ -1,5 +1,6 @@
 # Mussel 3D Imager
 
-![alt text](mussel_3D_recontruction.png)
 
-![alt text](ESP32_Imaging_System.png)
+<img src="mussel_3D_recontruction.png" alt="Alt Text" width="300" height="200">
+
+<img src="ESP32_Imaging_System.png" alt="Alt Text" width="300" height="200">
