@@ -15,7 +15,7 @@ You will need:
 2. 3/16" thick foam baord to construct base plate 
 3. Printed 3D parts, located in the 3D Parts folder
 
-Construct the base plate by cutting a 1ft diameter circle out of the foam board. Create the rim for the plate by cutting out a rectangle 
+Construct the base plate by cutting a 1ft diameter circle out of the foam board. Create the rim for the plate by cutting out a 3.5in by 3ft rectangle. Score it with a blade to allow it to form a ring as seen in the image below.
 
 
 ## Mussel 3D reconstruction:
