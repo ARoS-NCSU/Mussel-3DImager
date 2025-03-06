@@ -6,6 +6,15 @@ To facilitate image capture, we developed a custom data collection system capabl
 
 Additionally, several key components, such as the camera holder and turntable base, are 3D-printed. The collected images are then used to train a NeRF model using the Python-based Nerfstudio framework, and the generated 3D models can be visualized through the Nerfstudio API.
 
+
+## Assembly Instructions:
+
+You will need: 
+
+1. A 1/2" PVC pipe
+2. 3/16" thick foam baord to construct base plate and bowl
+3. Printed 3D parts, located in the 3D Parts folder
+
 ## Mussel 3D reconstruction:
 <img src="mussel_3D_recontruction.png" alt="Alt Text" width="600" height="400">
 
