@@ -15,7 +15,13 @@ You will need:
 2. 3/16" thick foam baord to construct base plate 
 3. Printed 3D parts, located in the 3D Parts folder
 
-Construct the base plate by cutting a 1ft diameter circle out of the foam board. Create the rim for the plate by cutting out a 3.5in by 3ft rectangle. Score it with a blade to allow it to form a ring as seen in the image below.
+Construct the base plate by cutting a 1ft diameter circle out of the foam board. Create the rim for the plate by cutting out a 3.5in by 3ft rectangle. Score it with a blade to allow it to form a ring as seen in the image below. Attach the Dis+Base+Bottom part to the bottom of the plate and the Disc+Base+Top file on top of the plate, and secure them together with screws. Glue the arm of the Servo motor to the center of the Dis+Base+Bottom part. place the servo into the slot in the Base+Part+1 part. 
+
+The Base+Part+1 and Base+Part+2 should be secured to a surface using tape or clamps when running, as they will topple over if not secured. 
+
+ESP32 Mount Instructions:
+
+Super glue the ESP32+-+Joint+Attachment to the back of the ESP32+-+Mount. The PVC+Suport+with+Connector should fit snugly into the gap of the ESP32+-+Joint+Attachment. Use a screw and a nut to keep it in place. The ESP32 Mount should be able to rotate tightly. Attach it to the PVC pipe, using zip ties to keep it secure. 
 
 
 ## Mussel 3D reconstruction:
