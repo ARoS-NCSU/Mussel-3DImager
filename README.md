@@ -23,6 +23,7 @@ ESP32 Mount Instructions:
 
 Super glue the ESP32+-+Joint+Attachment to the back of the ESP32+-+Mount. The PVC+Suport+with+Connector should fit snugly into the gap of the ESP32+-+Joint+Attachment. Use a screw and a nut to keep it in place. The ESP32 Mount should be able to rotate tightly. Attach it to the PVC pipe, using zip ties to keep it secure. 
 
+Read the README_code.txt file for instructions on programming.
 
 ## Mussel 3D reconstruction:
 <img src="mussel_3D_recontruction.png" alt="Alt Text" width="600" height="400">
