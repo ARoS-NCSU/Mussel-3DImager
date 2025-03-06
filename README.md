@@ -12,8 +12,11 @@ Additionally, several key components, such as the camera holder and turntable ba
 You will need: 
 
 1. A 1/2" PVC pipe
-2. 3/16" thick foam baord to construct base plate and bowl
+2. 3/16" thick foam baord to construct base plate 
 3. Printed 3D parts, located in the 3D Parts folder
+
+Construct the base plate by cutting a 1ft diameter circle out of the foam board. Create the rim for the plate by cutting out a rectangle 
+
 
 ## Mussel 3D reconstruction:
 <img src="mussel_3D_recontruction.png" alt="Alt Text" width="600" height="400">
