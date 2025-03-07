@@ -50,7 +50,7 @@ Replace {PATH_TO_CONFIG} with the path to your configuration file.
 The evaluation results will be saved in output.json.
 
 For more details, refer to the Nerfstudio documentation.
-## Mussel 3D reconstruction:
+## Mussel 3D reconstruction Output:
 <img src="mussel_3D_recontruction.png" alt="Alt Text" width="600" height="400">
 
 ## ESP32 based imaging system:
