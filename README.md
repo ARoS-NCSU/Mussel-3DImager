@@ -25,6 +25,33 @@ Super glue the ESP32+-+Joint+Attachment to the back of the ESP32+-+Mount. The PV
 
 Read the README_code.txt file for instructions on programming.
 
+## 3D reconstruction instructions using NeRFStudio:
+This section provides instructions for performing 3D reconstruction using Nerfstudio.
+#Installation
+To set up the environment, follow the installation instructions from the official Nerfstudio documentation: https://docs.nerf.studio/quickstart/installation.html
+#Data Processing
+Once installed, process your image dataset by running the following command:
+```bash
+ns-process-data images --data {DATA_PATH} --output-dir {PROCESSED_DATA_DIR}
+```
+Replace {DATA_PATH} with the path to your dataset and {PROCESSED_DATA_DIR} with the desired output directory for processed data.
+#Training
+Train the Nerfacto model using the processed data:
+```bash
+ns-train nerfacto --data {PROCESSED_DATA_DIR}
+```
+#Evaluation
+To evaluate the trained model, use the following command:
+```bash
+ns-eval --load-config={PATH_TO_CONFIG} --output-path=output.json
+```
+Replace {PATH_TO_CONFIG} with the path to your configuration file.
+#Results
+The evaluation results will be saved in 
+```bash 
+output.json.
+```
+For more details, refer to the Nerfstudio documentation.
 ## Mussel 3D reconstruction:
 <img src="mussel_3D_recontruction.png" alt="Alt Text" width="600" height="400">
 
