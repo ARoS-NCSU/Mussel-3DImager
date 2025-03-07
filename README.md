@@ -47,10 +47,8 @@ ns-eval --load-config={PATH_TO_CONFIG} --output-path=output.json
 ```
 Replace {PATH_TO_CONFIG} with the path to your configuration file.
 ### Results
-The evaluation results will be saved in 
-```bash 
-output.json.
-```
+The evaluation results will be saved in output.json.
+
 For more details, refer to the Nerfstudio documentation.
 ## Mussel 3D reconstruction:
 <img src="mussel_3D_recontruction.png" alt="Alt Text" width="600" height="400">
