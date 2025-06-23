@@ -56,6 +56,9 @@ For more details, refer to the Nerfstudio documentation.
 ## ESP32 based imaging system:
 <img src="ESP32_Imaging_System.png" alt="Alt Text" width="600" height="400">
 
+## Mussel ESP32 3D Reconstruction
+Video - https://www.youtube.com/watch?v=Asff8yX_VgY
+
 ## Citation
 
 If you use this work in your research, please cite:
