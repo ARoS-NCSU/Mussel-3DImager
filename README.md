@@ -56,6 +56,22 @@ For more details, refer to the Nerfstudio documentation.
 ## ESP32 based imaging system:
 <img src="ESP32_Imaging_System.png" alt="Alt Text" width="600" height="400">
 
+## Citation
+
+If you use this work in your research, please cite:
+
+```bibtex
+@inproceedings{sanap2025ai,
+  author    = {Mayur Sanap and Arman Badalamenti and Devadharshini Ayyappan and Sanjana Banerjee and Diana Milena Urieta and Caren Cooper and Michael Daniele and James Reynolds and Jay F. Levine and Alper Bozkurt and Edgar Lobaton},
+  title     = {AI-Driven Mussel Behavior Monitoring Using an Accessible 3D Imaging System},
+  booktitle = {Proceedings of the 2025 ASEE Annual Conference \& Exposition},
+  year      = {2025},
+  address   = {Montreal, QC},
+  month     = {June 22--25},
+  organization = {ASEE}
+}
+```
+
 ## Contact Us
 
 If you have any questions or suggestions, feel free to reach out:
