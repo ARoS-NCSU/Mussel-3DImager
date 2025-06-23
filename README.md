@@ -55,3 +55,10 @@ For more details, refer to the Nerfstudio documentation.
 
 ## ESP32 based imaging system:
 <img src="ESP32_Imaging_System.png" alt="Alt Text" width="600" height="400">
+
+## Contact Us
+
+If you have any questions or suggestions, feel free to reach out:
+
+- Mayur Sanap - msanap@ncsu.edu
+- Dr. Edgar Lobaton - edgar.lobaton@ncsu.edu  
